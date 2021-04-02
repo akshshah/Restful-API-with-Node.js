@@ -1,0 +1,8 @@
+bodyparser is used to read body data send along post request.
+
+Cors Errors = Cross Origin Resource Sharing
+
+multer is same as bodyParser, but is used when working with form-data, which is not handled by bodyParser.
+
+User/Product .find() --> it will fetch us an array
+User/Product .findOne() --> it will fetch us a single object
